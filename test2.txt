@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C817-6DDF
+
+ Directory of C:\Users\Avilein\Desktop\Myproject
+
+03/25/2020  05:51 PM    <DIR>          .
+03/25/2020  05:51 PM    <DIR>          ..
+03/25/2020  04:51 PM                22 index.html
+03/25/2020  04:49 PM                 8 test1.txt
+03/25/2020  05:51 PM                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  249,305,399,296 bytes free
